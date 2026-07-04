@@ -8,13 +8,13 @@ public:
 
         int prev1 = 1; // dp[1]
         int prev2 = 2; // dp[2]
-
+        int curr;
         for (int i = 3; i <= n; i++) {
-            int curr = prev1 + prev2;
+            curr = prev1 + prev2;
             prev1 = prev2;
             prev2 = curr;
         }
 
-        return prev2;
+        return curr;
     }
 };
