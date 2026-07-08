@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0403-frog-jump) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0403-frog-jump) |
 ## Greedy
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
