@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0133-clone-graph) |
 ## Math
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
