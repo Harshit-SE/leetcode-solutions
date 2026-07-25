@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0135-candy) |
 ## String
 |  |
 | ------- |
