@@ -1,17 +1,18 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        unordered_map<int,int> mp;   // key = number, value = frequency
-        
-        for(int i=0; i<nums.size(); i++){
-            mp[nums[i]]++;
-        }
-        
-        for(int i=0; i<nums.size(); i++){
-            if(mp[nums[i]]>1){   // check when frequency becomes 2
-                return nums[i];
-            }
-        }
-        return -1;  // in case no duplicate found
+       int i=nums[0];
+       int j=nums[0];
+       do{
+        i=nums[i];
+        j=nums[nums[j]];
+
+       }while(i!=j);
+       i=nums[0];
+       while(i!=j){
+        i=nums[i];
+        j=nums[j];
+       }
+       return i;
     }
 };
