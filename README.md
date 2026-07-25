@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0133-clone-graph](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0268-missing-number) |
 ## Math
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -106,12 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -137,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
