@@ -11,13 +11,15 @@ public:
     }
 
     bool isHappy(int n) {
-        int slow = n;
-        int fast = n;
-        do {
-            slow = getnext(slow);                 // move slow one step
-            fast = getnext(getnext(fast));        // move fast two steps
-        } while (slow != fast);
+        unordered_map<int,int> mp;  // store frequency of numbers
 
-        return slow == 1; // if they meet at 1 → happy
+        while (n != 1) {
+            if (mp[n] > 0) {   // if already seen → cycle
+                return false;
+            }
+            mp[n]++;           // mark this number as seen
+            n = getnext(n);    // move to next number
+        }
+        return true;           // reached 1 → happy number
     }
 };
