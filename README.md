@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -169,4 +170,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
