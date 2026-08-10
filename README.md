@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0268-missing-number) |
+| [1510-stone-game-iv](https://github.com/Harshit-SE/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/Harshit-SE/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1510-stone-game-iv](https://github.com/Harshit-SE/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Memoization
 |  |
 | ------- |
@@ -182,4 +184,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0146-lru-cache) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Harshit-SE/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Harshit-SE/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Harshit-SE/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Harshit-SE/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Harshit-SE/leetcode-solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
