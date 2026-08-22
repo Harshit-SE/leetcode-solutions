@@ -1,8 +1,9 @@
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) {
-        ListNode* curr = head;
+
+    ListNode* reverse(ListNode* head) {
         ListNode* prev = NULL;
+        ListNode* curr = head;
 
         while (curr != NULL) {
             ListNode* next = curr->next;
@@ -16,30 +17,29 @@ public:
 
     bool isPalindrome(ListNode* head) {
 
-        // Make a copy of the original list
-        ListNode* copy = new ListNode(head->val);
-        ListNode* temp = copy;
-        ListNode* curr = head->next;
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-        while (curr != NULL) {
-            temp->next = new ListNode(curr->val);
-            temp = temp->next;
-            curr = curr->next;
+        // Find middle
+        while (fast != NULL && fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        // Reverse the copied list
-        ListNode* last = reverseList(copy);
+        // Reverse second half
+        ListNode* p2 = reverse(slow);
 
-        // Compare original and reversed copy
-        ListNode* first = head;
+        // First half
+        ListNode* p1 = head;
 
-        while (first != NULL && last != NULL) {
-            if (first->val != last->val) {
+        // Compare
+        while (p1 != NULL && p2 != NULL) {
+            if (p1->val != p2->val) {
                 return false;
             }
 
-            first = first->next;
-            last = last->next;
+            p1 = p1->next;
+            p2 = p2->next;
         }
 
         return true;
