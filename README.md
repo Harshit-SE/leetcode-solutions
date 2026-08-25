@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
