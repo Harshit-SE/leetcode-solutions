@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-SE/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshit-SE/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/Harshit-SE/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-SE/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshit-SE/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0067-add-binary) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
