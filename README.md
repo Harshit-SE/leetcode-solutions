@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0322-coin-change) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0242-valid-anagram) |
