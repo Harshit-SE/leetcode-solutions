@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-SE/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2594-minimum-time-to-repair-cars](https://github.com/Harshit-SE/leetcode-solutions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-SE/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshit-SE/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshit-SE/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [2594-minimum-time-to-repair-cars](https://github.com/Harshit-SE/leetcode-solutions/tree/master/2594-minimum-time-to-repair-cars) |
 ## Matrix
 |  |
 | ------- |
