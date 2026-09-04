@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0268-missing-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0268-missing-number) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0220-contains-duplicate-iii](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [0658-find-k-closest-elements](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-SE/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshit-SE/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-SE/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Recursion
 |  |
@@ -380,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
