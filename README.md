@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0133-clone-graph](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0207-course-schedule) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0133-clone-graph](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0322-coin-change) |
@@ -370,10 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshit-SE/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
