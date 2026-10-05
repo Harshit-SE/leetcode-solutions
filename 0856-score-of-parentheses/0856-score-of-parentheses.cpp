@@ -1,23 +1,23 @@
 class Solution {
 public:
     int scoreOfParentheses(string s) {
-        stack<int> st;
-        st.push(0);
+        vector<int> v;
+        v.push_back(0);
 
         for (char c : s) {
             if (c == '(') {
-                st.push(0);
+                v.push_back(0);
             } 
             else {
-                int inside = st.top();
-                st.pop();
+                int count = v.back();
+                v.pop_back();
 
-                int score = (inside == 0) ? 1 : 2 * inside;
+                int score = (count == 0) ? 1 : 2 * count;
 
-                st.top() += score;
+                v.back() += score;
             }
         }
 
-        return st.top();
+        return v.back();
     }
 };
